@@ -38,4 +38,4 @@ If you have questions, suggestions, or just want to connect with us, you can rea
 
 Thank you for being a part of Braingeneers Ed. Together, we can unlock the mysteries of the brain and make education in these fascinating fields accessible to all.
 
-![Braingeneers Ed Logo](assets/logo.png)
+![Braingeneers Ed Logo](.images/learning.png)
