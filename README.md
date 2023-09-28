@@ -20,6 +20,8 @@ Braingeneers Ed is part of the broader Braingeneers project, which seeks to adva
 
 If you're new to Braingeneers Ed, here's how you can get started:
 
+0. **Create Github Account** Create a github account using your **student email**. Having a student email will be required for some of the later steps.  
+
 1. **Explore Our Repositories:** Browse our repositories to find courses and resources that interest you.
 
 2. **Join Our GitHub Classrooms:** Enroll in our GitHub Classrooms to participate in interactive courses and assignments.
@@ -27,6 +29,13 @@ If you're new to Braingeneers Ed, here's how you can get started:
 3. **Contribute:** If you're an educator or researcher, consider contributing to our educational materials. If you're a learner, share your feedback and ideas to help us improve.
 
 4. **Engage with the Community:** Connect with fellow learners and educators in our discussions and community forums.
+
+**references**
+* [github global campus](https://github.blog/2021-09-01-introducing-github-global-campus/)
+* [codespace intro video](https://www.youtube.com/watch?v=sYJ3CHtT6WM)
+
+
+
 
 ## Contributing
 
